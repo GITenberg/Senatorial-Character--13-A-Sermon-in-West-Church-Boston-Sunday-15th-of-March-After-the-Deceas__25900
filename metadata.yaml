@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31653'
     url: http://www.gutenberg.org/2009/agents/31653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25900#Senatorial-Character--13-A-Sermon-in-West-Church-Boston-Sunday-15th-of-March-After-the-Deceas_
 gutenberg_issued: '2008-06-25'
 gutenberg_type: Text
 identifiers:
