@@ -1,0 +1,28 @@
+_repo: Senatorial-Character--13-A-Sermon-in-West-Church-Boston-Sunday-15th-of-March-After-the-Deceas__25900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bartol, C. A. (Cyrus Augustus)
+    birthdate: 1813
+    deathdate: 1900
+    gutenberg_agent_id: '31653'
+    url: http://www.gutenberg.org/2009/agents/31653
+description: ''
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Sermons'
+- !lcc 'E300'
+- !lcsh 'Sumner, Charles, 1811-1874'
+title: "Senatorial Character\r\nA Sermon in West Church, Boston, Sunday, 15th of March,\
+  \ After the Decease of Charles Sumner."
+url: http://www.gutenberg.org/ebooks/25900
